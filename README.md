@@ -9,7 +9,7 @@ Study Notion (an Edtech Application) **Frontend** which is a web application of 
 
 
 ## Screenshots
-![screenshot-studynotion](https://github.com/abhi-nav-anand/Study-Notion-Frontend/assets/64230897/3880f078-81d7-418c-a244-ac4aa5b60419)
+![screenshot-studynotion](https://github.com/animesh-anand-dev/Study-Notion-Frontend/assets/64230897/3880f078-81d7-418c-a244-ac4aa5b60419)
 
 ## Run Locally
 
