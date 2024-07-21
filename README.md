@@ -1,7 +1,7 @@
 # Study Notion Frontend
 
 Study Notion (an Edtech Application) **Frontend** which is a web application of **MERN** stack application. Built using **React JS**.
-![Your paragraph text](https://github.com/abhi-nav-anand/Study-Notion-Backend/assets/64230897/a596e6ca-6c25-480d-990a-cef4c7cce660)
+![Your paragraph text](https://github.com/animesh-anand-dev/Study-Notion-Backend/assets/64230897/a596e6ca-6c25-480d-990a-cef4c7cce660)
 
 ## Demo
 
