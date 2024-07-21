@@ -1,7 +1,7 @@
 # Study Notion Frontend
 
 Study Notion (an Edtech Application) **Frontend** which is a web application of **MERN** stack application. Built using **React JS**.
-![Your paragraph text](https://github.com/animesh-anand-dev/Study-Notion-Backend/assets/64230897/a596e6ca-6c25-480d-990a-cef4c7cce660)
+![Your paragraph text](https://github.com/abhi-nav-anand/Study-Notion-Backend/assets/64230897/a596e6ca-6c25-480d-990a-cef4c7cce660)
 
 ## Demo
 
@@ -9,13 +9,13 @@ Study Notion (an Edtech Application) **Frontend** which is a web application of 
 
 
 ## Screenshots
-![screenshot-studynotion](https://github.com/animesh-anand-dev/Study-Notion-Frontend/assets/64230897/3880f078-81d7-418c-a244-ac4aa5b60419)
+![screenshot-studynotion](https://github.com/abhi-nav-anand/Study-Notion-Frontend/assets/64230897/3880f078-81d7-418c-a244-ac4aa5b60419)
 
 ## Run Locally
 
 1. Clone the project
 ```
- git clone https://github.com/animesh-anand-dev/Study-Notion-Frontend.git
+ git clone https://github.com/abhi-nav-anand/Study-Notion-Frontend.git
 ```
 2. Open **[VS Code](https://code.visualstudio.com/)** or any other IDE of your choice open the **Study-Notion-Frontend** folder.
 
